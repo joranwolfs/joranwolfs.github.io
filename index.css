@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+    margin: 0;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.boven{
+background-image: url('img/boven.png');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+width: 800px;
+height: 300px;
+margin: 0;
+}
+
+.titel{
+    display: flex;
+            height: 45vh; /* 100% of the viewport height */
+            align-items: center; /* Center vertically */
+            justify-content: center; /* Center horizontally */
+}
+
+
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin-left: 60%;
+}
+
+
+.mooie-knop {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #af4c4c; /* Groene kleur, je kunt dit aanpassen */
+    color: #fff; /* Witte tekst, je kunt dit aanpassen */
+    border: 0px solid;
+    border-radius: 15px;
+    transition: background-color 0.3s;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}

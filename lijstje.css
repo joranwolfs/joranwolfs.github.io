@@ -1,0 +1,47 @@
+body{
+   margin: 0%;
+}
+
+.boven{
+    background-image: url(img/istockphoto-888204180-612x612_-_Copy-removebg-preview.png);  
+ height: 150px;
+ width: 600px;
+ margin-left: -5%;
+}
+
+.lijst{
+    padding-left: 20px;
+    width: 500px;
+}
+
+h1{
+    color: brown;
+}
+
+h2{
+    color: green;
+}
+
+h3{
+    color:brown ;
+    font-size: 30px;
+}
+
+p1{
+    color: green;
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: brown;
+   
+}
+.onder{
+ background-image: url(img/istockphoto-888204180-612x612-removebg-preview.png);  
+ height: 150px;
+ width: 580px;
+ margin-left: -5%;
+}
